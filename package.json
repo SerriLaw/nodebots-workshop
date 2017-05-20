@@ -1,0 +1,9 @@
+{
+  "name": "nodebots-workshop",
+  "version": "1.0.0",
+  "description": "Nodebots Workshop",
+  "dependencies": {
+    "johnny-five": "^0.10.13"
+  },
+  "devDependencies": {}
+}
